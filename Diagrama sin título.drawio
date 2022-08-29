@@ -1,68 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T20:45:49.449Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="l_gHNtlN6SNEiE1fz-lS" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T15:49:45.254Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="IcgSO6RcZ1rJdUe0NbUm" version="20.2.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="526" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-42" value="Vendedor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-42" value="Vendedor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="570" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-43" value="Registrar fabricantes/proveedor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-43" value="Registrar fabricantes/proveedor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="70" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-44" value="Filtro de proveedores por regiòn (nacional o extrangero)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-44" value="Filtro de proveedores por regiòn (nacional o extrangero)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="253" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-45" value="Bùsqueda de proveedores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-45" value="Bùsqueda de proveedores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="160" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-46" value="Editar proveedores&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-46" value="Editar proveedores&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-47" value="Eliminar proveedores" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-47" value="Eliminar proveedores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-49" value="Persona con rol administrador en RNA, realiza compras, administra proveedores" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-49" value="Persona con rol administrador en RNA, realiza compras, administra proveedores" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-50" value="ADMINISTRADOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-50" value="ADMINISTRADOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="220" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-52" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="240" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="240" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-54" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-54" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="250" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-55" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="250" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ydmt3-FHOMgmEezEm6SX-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Ydmt3-FHOMgmEezEm6SX-57" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="260" as="sourcePoint" />
             <mxPoint x="250" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JzMhmM-c-JzTjRcgK0Qn-1" value="Agregar productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JzMhmM-c-JzTjRcgK0Qn-2" value="Editar Productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JzMhmM-c-JzTjRcgK0Qn-3" value="Eliminar Productos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
